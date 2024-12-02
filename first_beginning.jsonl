@@ -1,0 +1,5 @@
+import json
+
+{"language": "English", "word": "Love", "definition": "An intense feeling of deep affection."}
+{"language": "Spanish", "word": "Amor", "definition": "Un sentimiento intenso de cariño profundo."}
+{"language": "Chinese", "word": "爱", "definition": "深厚的爱意。"}
